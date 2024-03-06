@@ -1,0 +1,29 @@
+body{
+    background-color: pink;
+    background-image: url("graphic\ design.jpg")
+}
+
+.lista{
+    color: darkblue;
+}
+
+.imagem{
+    background-image: url("graphic\ design.jpg")
+}
+
+.salmos{
+    color:yellowgreen;
+    font-family:"anta"; 
+    font-weight: 400;
+    font-style: normal;
+    border: 5px solid;
+    border-color: violet;
+    
+    
+}
+
+.fidelidade{
+    
+}
+
+
