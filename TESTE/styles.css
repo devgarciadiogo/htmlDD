@@ -1,0 +1,26 @@
+body{
+    background-color: pink;
+}
+
+.lista{
+    color: violet;
+}
+
+.salmos{
+    color:yellowgreen;
+    font-family:"anta"; 
+    font-weight: 400;
+    font-style: normal;
+    border: 5px;
+    border-color: white;
+    border-radius: 50%;
+}
+
+.fidelidade{
+    font-size: 25px;
+    font-weight: bold;
+    height: 50px;
+    width: 60px;
+}
+
+
